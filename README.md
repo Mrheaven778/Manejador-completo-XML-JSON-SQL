@@ -1,0 +1,1 @@
+Esta es una práctica donde creamos una función en tu manejador universal que permita obtener reservas de la base de datos, para exportarlos a un xml o un json, la base de datos es un sqlServer local 
